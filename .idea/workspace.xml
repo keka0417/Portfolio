@@ -4,7 +4,6 @@
     <list default="true" id="2c28d3d8-170f-40c5-9d6b-4c3c38158f43" name="デフォルト変更リスト" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/php/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/docker/php/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
       <updated>1617189188578</updated>
       <workItem from="1617189190585" duration="1038000" />
       <workItem from="1617517896571" duration="2003000" />
-      <workItem from="1617520326339" duration="4605000" />
+      <workItem from="1617520326339" duration="5303000" />
     </task>
     <servers />
   </component>

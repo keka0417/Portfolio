@@ -12,7 +12,9 @@ services:
       - "8000:8000"
 
   db:
-    image: mysql:5.7
+    build:
+      context: ./docker/db
+      dockerfile: Dockerfile
     container_name: mysql
     ports:
       - "3306:3306"
